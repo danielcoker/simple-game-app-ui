@@ -118,3 +118,21 @@ footer {
     display: block;
     font-size: 25px;
 }
+
+.gameOver {
+    height: 40%;
+    width: 50%;
+    background-color: #0a100a;
+    border-radius: 7px;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    padding: 20px 40px;
+    margin-bottom: 20px;
+}
+
+.earning,
+.answeredQuestion {
+    text-align: center;
+    margin: 10px auto;
+}
